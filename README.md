@@ -259,6 +259,7 @@ This list is for developers and modders working with such formats. It provides t
 - [Awesome Reverse Engineering](https://github.com/tylerha97/awesome-reversing) - List of reverse engineering resources.
 - [Awesome Software Reverse Engineering](https://github.com/ReversingID/Awesome-Reversing/blob/master/software-reversing.md) - Comprehensive list of reverse engineering software and tools.
 - [Awesome Gamedev](https://github.com/ellisonleao/magictools) - Curated list of game development resources.
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development.
 - [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) - Curated list of video game decompilation projects, documenting reverse-engineered game source code and asset parsing.
 - [Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports) - Curated list of fan-made, reverse-engineering-driven PC ports and static recompilations of console-only games.
 - [Awesome-Game-Boy-Camera-and-Game-Boy-Printer-projects](https://github.com/Raphael-Boichot/Awesome-Game-Boy-Camera-and-Game-Boy-Printer-projects) - Curated meta-list of Game Boy Camera and Game Boy Printer projects across the internet.
